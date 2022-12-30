@@ -1,4 +1,4 @@
-# Seafile Downloaders
+# Seafile Library Downloader
 
 This tool is designed to be used as a backup solution for a private Seafile library/repository on a NAS or some other
 kind of storage device. The usage is simple and can be customized to a certain degree with parameters (see below). The
